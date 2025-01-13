@@ -1,0 +1,19 @@
+site_name: Wiki
+nav:
+  - Accueil: index.md
+  - Jeux:
+    - Minecraft:
+      - Serveurs:
+        - Cobblemon: jeux/minecraft/serveurs/cobblemon.md
+  
+  - Services:
+    - Docker:
+      - Docker: services/docker/docker.md
+      - Minecraft: services/docker/minecraft.md
+
+theme: 
+  name: material
+  palette:
+    primary: deep purple
+    accent: purple
+    scheme: slate
