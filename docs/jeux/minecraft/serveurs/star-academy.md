@@ -2,12 +2,12 @@
 
 Bienvenue dans **Star Academy**, un serveur proposé par **GalaxyNetwork**, le début de votre aventure pour devenir le meilleur dresseur de tous les temps !
 
-![Image du serveur Star Academy](../../../../images/decobblemon-star-academy.png)
+![SA](https://media.forgecdn.net/attachments/description/1150117/description_46f2946b-6bf7-4423-b058-6aea48cc45a3.png)
 
 Ce serveur est centré sur le mod **Cobblemon**, qui ajoute l'univers Pokémon à Minecraft. Ce modpack propose une refonte complète du système d'exploration et de progression. Découvrez plus de 100 constructions, des butins entièrement personnalisés, une économie soigneusement conçue, ainsi que de nombreux mods pour améliorer votre expérience de jeu. Que vous jouiez en solo ou en multijoueur, **Star Academy** vous offre un gameplay unique.
 
 Parcourez un monde magnifique grâce à l'association des mods William Wythers' Overhauled Overworld et Oh The Biomes We've Gone, qui renouvellent l'apparence du jeu tout en conservant l'essence de Minecraft vanilla. Vous y trouverez d'immenses points d'intérêts (POI) à explorer, grâce à des mods tels que Moog's Voyager, Soaring Structures, ATI Structures, YUNG's Structures, TOTW Modded, Tidal Towns, et bien d'autres. Ces lieux regorgent de butins axés sur Cobblemon, alors préparez-vous à des heures d'exploration et n'oubliez pas vos sacs à dos améliorés !
-
+    
 ---
 
 ## Prérequis
