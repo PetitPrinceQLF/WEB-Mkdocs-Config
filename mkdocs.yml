@@ -4,7 +4,7 @@ nav:
   - Jeux:
     - Minecraft:
       - Serveurs:
-        - Cobblemon: jeux/minecraft/serveurs/star-academy.md
+        - Star Academy: jeux/minecraft/serveurs/star-academy.md
   
   - Services:
     - Docker:

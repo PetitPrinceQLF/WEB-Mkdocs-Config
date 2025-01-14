@@ -1,5 +1,3 @@
-# Guide d'installation du Modpack via CurseForge
-
 Bienvenue dans **Star Academy**, un serveur proposé par **GalaxyNetwork**, le début de votre aventure pour devenir le meilleur dresseur de tous les temps !
 
 ![SA](https://media.forgecdn.net/attachments/description/1150117/description_46f2946b-6bf7-4423-b058-6aea48cc45a3.png)
