@@ -10,6 +10,7 @@ nav:
     - Docker:
       - Docker: services/docker/docker.md
       - Minecraft: services/docker/minecraft.md
+    - Git : services/git.md
 
 theme: 
   name: material
