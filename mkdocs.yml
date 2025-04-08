@@ -5,6 +5,9 @@ nav:
     - Minecraft:
       - Serveurs:
         - Star Academy: jeux/minecraft/serveurs/star-academy.md
+        - NewHorizon:
+          - Plugins:
+            - Skript Dungeons: jeux/minecraft/serveurs/newhorizon/plugins/skript_dungeons.md
   
   - Services:
     - Docker:
